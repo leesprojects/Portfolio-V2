@@ -1,0 +1,11 @@
+Model Information:
+* title:	XV95 Ghostkeel Battlesuit
+* source:	https://sketchfab.com/3d-models/xv95-ghostkeel-battlesuit-216dfa3d736d4784977ead776917f312
+* author:	Apothecary.Kekoulis (https://sketchfab.com/apothecarykekoulis)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "XV95 Ghostkeel Battlesuit" (https://sketchfab.com/3d-models/xv95-ghostkeel-battlesuit-216dfa3d736d4784977ead776917f312) by Apothecary.Kekoulis (https://sketchfab.com/apothecarykekoulis) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tau KV128 Stormsurge
+* source:	https://sketchfab.com/3d-models/tau-kv128-stormsurge-37ab137d8cb849949dc3221721e5ac9f
+* author:	Frag_Jacker (https://sketchfab.com/Frag_Jacker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tau KV128 Stormsurge" (https://sketchfab.com/3d-models/tau-kv128-stormsurge-37ab137d8cb849949dc3221721e5ac9f) by Frag_Jacker (https://sketchfab.com/Frag_Jacker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

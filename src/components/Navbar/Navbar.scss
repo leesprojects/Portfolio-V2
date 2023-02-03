@@ -1,0 +1,13 @@
+.App-Navbar {
+  width: 100vw;
+  height: 3rem;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  a {
+    display: flex;
+    padding: 3px 0.5rem;
+  }
+}
