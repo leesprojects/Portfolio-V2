@@ -14,8 +14,7 @@ const AI = () => {
   return (
     <div className="Art-Generator">
       <p>Art Generator Component</p>
-      <p>Random Word: {getRandomUser}</p>
-      <button onClick="getRandomUser()"></button>
+      {/* <button onClick="getRandomUser()"></button> */}
     </div>
   )
 }

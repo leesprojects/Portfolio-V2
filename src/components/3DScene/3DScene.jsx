@@ -1,17 +1,17 @@
 import { OrbitControls, Stars                 } from "@react-three/drei"
 import { Canvas,                              } from "@react-three/fiber"
 import { Physics, usePlane                    } from "@react-three/cannon"
-import { Cube, CubeB, Sphere                  } from "./Models/Shapes"
-import { BlueWhaleModel                       } from "./Models/Bluewhale"
-import { GhostKeelModel                       } from "./Models/Ghostkeel"
-import { StormSurgeModel                      } from "./Models/Stormsurge"
+import { Cube, CubeB, Sphere                  } from "/Models/Shapes"
+// import { BlueWhaleModel                       } from "/Models/Bluewhale"
+// import { GhostKeelModel                       } from "/Models/Ghostkeel"
+// import { StormSurgeModel                      } 
 
 export default function ThreeJSScene() {
   return (
     <Canvas>
       <color attach="background" args={["lightblue"]} />
       <OrbitControls />
-      <ambientLight intesity={0.5} />
+      <ambientLight intensity={0.5} />
       <spotLight position={[15, 5, 15]} angle={0.2} />
       <Stars />
 
@@ -23,10 +23,10 @@ export default function ThreeJSScene() {
         <Cube position={[1, 6, 2.5]} />
         <CubeB position={[1, 5, 1]} />
         <Sphere position={[0, 3, 0]} />
-
+{/* 
         <BlueWhaleModel  position={[5, 0, 0]} scale={0.005} />
         <GhostKeelModel position={[-4, 0, -15]} scale={0.05} />
-        <StormSurgeModel position={[5, 0, -15]} scale={0.5} />
+        <StormSurgeModel position={[5, 0, -15]} scale={0.5} /> */}
       </Physics>
 
     </Canvas>
